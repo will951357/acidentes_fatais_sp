@@ -493,15 +493,10 @@ Esses pontos se explicam mutuamente: como os automóveis são os mais responsáv
 # CONCLUSÕES
 ____
 
-## Conclusão dos dados
-Alguns dados relevantes:
-+ Homens representam **82.5%** da vítimas.
-+ Motociclistas representam **34.4%** da vítimas.
-+ Condutores e passageiros costumas ser mais jovens, já os pedestres costumas ser mais velhos.
-+ Pedestres mulheres são a maior parte das vitimas de atropelamentos à medida que envelhcem.
-+ As vias municipais tiveram mais óbitos que as rodovias.
-+ Municipios com mais mortes estão concentrados na capital.
-+ As tragédias aumentam consideravelemnte em datas comemorativas, finais de semana (**~40%**) e no período noturno (**37.1%**).
-+ As colisões seguido do atropelamento se destacam nos tipos de acidentes fatais.
+A análise dos dados de acidentes fatais em São Paulo entre 2015 e 2024 revela padrões preocupantes e áreas críticas que demandam atenção. As colisões são a principal causa de fatalidades, seguidas por atropelamentos, com automóveis sendo responsáveis pela maioria dos acidentes fatais. Este fato é corroborado pela predominância de motoristas como principais vítimas, resultando em um maior número de colisões fatais.
 
-## Conclusão Final
+Os dados também mostram que homens representam a maior parte das vítimas, especialmente os motociclistas. Jovens condutores e passageiros são mais frequentemente envolvidos em acidentes, enquanto pedestres vítimas tendem a ser mais velhos, com mulheres idosas sendo as principais vítimas de atropelamentos.
+
+As vias municipais apresentam mais óbitos que as rodovias, e a capital concentra o maior número de mortes. Períodos comemorativos, finais de semana e noites registram um aumento significativo nas fatalidades, com destaque para um aumento de aproximadamente 40% nos finais de semana e 37.1% durante a noite.
+
+Em resumo, os esforços para reduzir as fatalidades no trânsito devem focar em melhorar a segurança dos automóveis, aumentar a fiscalização durante períodos críticos e promover campanhas de conscientização, especialmente voltadas para jovens motoristas e motociclistas. A atenção especial aos pedestres, principalmente mulheres idosas, também é essencial para reduzir o número de atropelamentos.
