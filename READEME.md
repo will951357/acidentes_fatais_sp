@@ -46,5 +46,6 @@ Este projeto é licenciado sob a Licença MIT License. Veja o arquivo LICENSE pa
 
 
 ## Contatos
-LinkedIn: [William Olivera](https://www.linkedin.com/in/william-oliveira-641910169/)
-Email: williamsilva14@hotmail.com
++ LinkedIn: [William Olivera](https://www.linkedin.com/in/william-oliveira-641910169/)
+
++ Email: williamsilva14@hotmail.com
