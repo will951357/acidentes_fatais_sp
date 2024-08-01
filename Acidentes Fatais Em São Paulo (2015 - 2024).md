@@ -488,7 +488,7 @@ Nessa etapa, concluímos dois pontos principais:
 
 2. Automóveis são responsáveis pelo maior número de fatalidades.
 
-Esses pontos se explicam mutuamente: como os condutores automóveis são os mais responsáveis pelos acidentes e os motoristas são as principais vítimas, as colisões acabam resultando em um maior número de fatalidades.
+Esses pontos se explicam mutuamente: como os condutores de automóveis são os mais responsáveis pelos acidentes e os motoristas são as principais vítimas, as colisões acabam resultando em um maior número de fatalidades.
 
 # CONCLUSÕES
 ____
