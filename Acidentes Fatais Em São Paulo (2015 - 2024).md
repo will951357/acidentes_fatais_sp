@@ -385,7 +385,7 @@ def analise_mensal(main_df):
 
 Podemos observar que, em períodos comemorativos, há uma tendência de aumento nas fatalidades, como, por exemplo, no Carnaval.
 
-## 3.2 Dia da Semana
+## 3.2 Dias da Semana
 ```python
 def analise_dia_semana(main_df):
     dia_semana_obito = main_df['Dia da Semana'].value_counts().sort_index()
@@ -459,10 +459,10 @@ def tipos_acidentes(main_df):
 
 ![introducao](media/tipos_acidentes.png)
 
-O resultado apresentado mostra com clareza a fatalidade do **atropelamento** com **quase o dobro** de óbitos em **relação ao segundo lugar**.
+Se colocarmos os diferentes tipos de colisão em uma só categoria (Colisão) veremos que esse tipo de acidente é que causa mais fatalidade no trânsito.
 
 ## 4.2 Veículos envolvidos
-Agora veremos se houve algum outro veiculo envolvido que levou a vitima a óbito.
+Agora veremos quais veículos envolvidos nos acidentes.
 ```python
 def veiculos_evolvidos(main_df):
     outro_veiculo_envolvido = main_df['Outro Veículo Envolvido'].value_counts()
@@ -488,7 +488,7 @@ Nessa etapa, concluímos dois pontos principais:
 
 2. Automóveis são responsáveis pelo maior número de fatalidades.
 
-Esses pontos se explicam mutuamente: como os automóveis são os mais responsáveis pelos acidentes e os motoristas são as principais vítimas, as colisões acabam resultando em um maior número de fatalidades.
+Esses pontos se explicam mutuamente: como os condutores automóveis são os mais responsáveis pelos acidentes e os motoristas são as principais vítimas, as colisões acabam resultando em um maior número de fatalidades.
 
 # CONCLUSÕES
 ____
